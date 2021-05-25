@@ -10,8 +10,8 @@
 * Pursuing Bachelor's in Computer Science at [Bilkent University][bilkent-website].
 * **I am open to collaborate on any cool project!** But if you do not have anything in mind, you can always contact me via email ([egekaanngurkan@gmail.com](mailto:egekaanngurkan@gmail.com)) to collaborate on one of the projects I have on my GitHub profile, or you know, just open a pull request and I promise I'll review it! :)\
   **Some projects I'd love to collaborate on:**\
-  [![Readme Card](https://github-readme-stats-two-dun.vercel.app/api/pin/?username=egekaangurkan&repo=blockchain)](https://github.com/egekaangurkan/blockchain)
-  [![Readme Card](https://github-readme-stats-two-dun.vercel.app/api/pin/?username=egekaangurkan&repo=crypto-toolkit)](https://github.com/EgeKaanGurkan/crypto-toolkit)
+  [![Readme Card](https://github-readme-stats-two-dun.vercel.app/api/pin/?username=egekaangurkan&repo=blockchain&bg_color=30,00eaff,FF0072&title_color=ffffff&text_color=ffffff&hide_border=true&icon_color=ffffff)](https://github.com/egekaangurkan/blockchain)
+  [![Readme Card](https://github-readme-stats-two-dun.vercel.app/api/pin/?username=egekaangurkan&repo=crypto-toolkit&bg_color=30,00eaff,FF0072&title_color=ffffff&text_color=ffffff&hide_border=true&icon_color=ffffff)](https://github.com/EgeKaanGurkan/crypto-toolkit)
 
 
  &nbsp; <p align="center">
