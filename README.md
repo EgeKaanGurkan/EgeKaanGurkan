@@ -4,7 +4,7 @@
 [![StackOverflow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=)][linkedin]
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
 
-#### I am a 3<sup>rd</sup> year Computer Science student
+#### I am a 4<sup>th</sup> year Computer Science student
 
 * Currently working at [BK Mobil][bkmobil-website] as a backend developer.
 * Pursuing Bachelor's in Computer Science at [Bilkent University][bilkent-website].
