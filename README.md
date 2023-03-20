@@ -4,9 +4,9 @@
 [![StackOverflow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=)][linkedin]
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
 
-#### I am a 4<sup>th</sup> year Computer Science student
+#### Computer Science Graduate
 
-* Currently working at [BK Mobil][bkmobil-website] as a backend developer.
+* Currently working at [Maltego GmbH][https://www.maltego.com/] as a backend developer.
 * Pursuing Bachelor's in Computer Science at [Bilkent University][bilkent-website].
  &nbsp; <p align="center">
 ![Ege's GitHub stats](https://github-readme-stats-two-dun.vercel.app/api?username=egekaangurkan&count_private=true&bg_color=30,FF0072,FFCD00&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true&icon_color=ffffff)
