@@ -7,7 +7,7 @@
 #### Computer Science Graduate
 
 * Currently working at [Maltego GmbH](https://www.maltego.com/)  as a backend developer.
-* Pursuing Bachelor's in Computer Science at [Bilkent University][bilkent-website].
+* Bachelor's in Computer Science at [Bilkent University][bilkent-website].
  &nbsp; <p align="center">
 ![Ege's GitHub stats](https://github-readme-stats-two-dun.vercel.app/api?username=egekaangurkan&count_private=true&bg_color=30,FF0072,FFCD00&title_color=ffffff&text_color=ffffff&hide_border=true&show_icons=true&icon_color=ffffff)
 </p>
