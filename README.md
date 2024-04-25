@@ -1,6 +1,6 @@
 ## Hey there, I am Ege! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-[![Website](https://img.shields.io/website?label=egekaangurkan.com&style=for-the-badge&url=http%3A%2F%2Fegekaangurkan.com)][website]
+# [![Website](https://img.shields.io/website?label=egekaangurkan.com&style=for-the-badge&url=http%3A%2F%2Fegekaangurkan.com)][website]
 [![StackOverflow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=)][linkedin]
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][stackoverflow]
 
